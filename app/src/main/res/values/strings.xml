@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pruebaAndroidStudio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hola">Hola</string>
+    <string name="title_activity_activity_omar">ActivityOmar</string>
+    <string name="title_activity_activity_mauricio">ActivityMauricio</string>
+    <string name="title_activity_activity_israel">ActivityIsrael</string>
+</resources>
